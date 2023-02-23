@@ -5,4 +5,4 @@ which is given by user. There  are lots of things
 which must be cleared before creating user define 
 function like function declaration which occurs 
 before the main function.  And function definition 
-Or function header then actual and dummy parameters.
+Or function header then actual and dummy parameters and etc.
